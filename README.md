@@ -276,9 +276,7 @@ Key outcomes include:
 * Efficient and fraud-resistant claim processing
 
 ---
-Here is your section rewritten in a **clean GitHub README format** with proper headings, structure, and professional tone:
 
----
 
 ## Adversarial Defense & Anti-Spoofing Strategy
 
