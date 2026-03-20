@@ -283,5 +283,4 @@ Rido transforms insurance into a real-time, data-driven system tailored for the 
 
 
 
-* Format this into a **GitHub-ready styled README (with headings, badges, and visuals sections)**
-* Or shorten it into a **1-page hackathon submission version**
+
