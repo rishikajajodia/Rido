@@ -14,7 +14,7 @@ Traditional insurance systems are not suited to this environment due to their re
 
 ### Core Problem
 
-Delivery riders depend on continuous order flow within a limited geographic radius. When disruptions occur, their income does not gradually decline—it stops entirely. Existing insurance solutions fail because they:
+Delivery riders depend on continuous order flow within a limited geographic radius. When disruptions occur, their income does not gradually decline-it stops entirely. Existing insurance solutions fail because they:
 
 * Do not capture micro-level disruptions
 * Lack real-time responsiveness
